@@ -1,0 +1,8 @@
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\bin\Debug\Calculadora010.exe
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\bin\Debug\Calculadora010.pdb
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.Form1.resources
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.Properties.Resources.resources
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.exe
+C:\Users\seeduc\Desktop\CalculatorBinary-master\Calculadora010\obj\x86\Debug\Calculadora010.pdb
